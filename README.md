@@ -1,3 +1,7 @@
 My first line.
 
-# Cambio de lucas
+
+# Recomended
+git config --global pull.ff only
+git config --global fetch.prune true
+git config --global diff.colorMoved zebra
